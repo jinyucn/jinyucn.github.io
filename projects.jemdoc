@@ -1,9 +1,0 @@
-# jemdoc: menu{MENU}{projects.html}, nofooter  
-==Jinyu Chen---Projects
-	
-== Sparkle: Viewport Prediction in 360-degree Video Streaming
-- Conduct an in-depth measurement study on the real traces and summarize some insights.
-- Propose a user-aware viewport prediction algorithm in 360-degree video streaming.
-- Outperform start-of-the-art baseline algorithms by up to 5% prediction accuracy.
-- Publication: *Jinyu Chen*, Xianzhuo Luo, Miao Hu, Di Wu, and Yipeng Zhou. Sparkle: User-Aware Viewport Prediction in 360-degree Video Streaming. Accepted for publication in /IEEE Transactions on Multimedia (TMM)/.
-
